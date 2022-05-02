@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Shihab Raafat</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Front-End+Developer;Freelancer+at+khamsat.com;React.js+%7C+ES6+%7C+Bootstrap+5">
+    <img src="https://readme-typing-svg.herokuapp.com?color=369C00&center=true&lines=Front-End+Developer;Freelancer+at+khamsat.com;React.js+%7C+ES6+%7C+Bootstrap+5"/>
 </p>
 
 
 <br>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="shihab raafat" /></p>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 
 ## :sassy_man:  About me
