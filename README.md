@@ -16,7 +16,7 @@
 - 💬 Ask me `about` **HTML5, CSS3, JS, ES6, JSON, React**
 - 📫 How to `reach me` **shihabraafat7@gmail.com**
 - :school: I am a `Graduated` from Faculty of Computers & Informatics at El-Shourok Academy
-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1fINY5sx6PrWEHC8KJqBDvYyvA1fRSpdE/view).
+- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1gKRuSXStkGOPvG075mZLyMVcLvBsykCe/view?usp=sharing).
 - :nerd_face: Always `learning new things`
 - ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
 
