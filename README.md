@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shihab Raafat</h1>
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=369C00&center=true&lines=Front-End+Developer;Freelancer+at+khamsat.com;React.js+%7C+Redux+%7C+TailWindCSS+TypeScript"/>
+    <img src="https://readme-typing-svg.herokuapp.com?color=369C00&center=true&lines=React-Front-End+Developer;Freelancer+at+khamsat.com;React.js+%7C+Redux+%7C+TailWindCSS+%7C+TypeScript"/>
 </p>
 
 
