@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shihab Raafat</h1>
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=369C00&center=true&lines=React-Front-End+Developer;Freelancer+at+khamsat.com;React+%7C+Redux+%7C;TailwindCSS+%7C+TypeScript"/>
+    <img src="https://readme-typing-svg.herokuapp.com?color=369C00&center=true&lines=React-Front-End+Developer;Freelancer+at+khamsat.com;React+%7C+Redux;TailwindCSS+%7C+TypeScript"/>
 </p>
 
 
@@ -11,9 +11,9 @@
 
 ## :sassy_man:  About me
 - 🔭 I’m currently `working` on [Clubhouse clone](https://club-house-shihab.netlify.app/)
-- 🌱 I’m currently `learning` **React.js**
+- 🌱 I’m currently `learning` **Redux Toolkit**
 - 👨‍💻 All of my `projects` are available at [https://shihab-raafat.netlify.app/](https://shihab-raafat.netlify.app/)
-- 💬 Ask me `about` **React.js, Redux, API, TailwindCSS, TypeScript**
+- 💬 Ask me `about` **React.js, Redux Toolkit, API, TailwindCSS, TypeScript**
 - 📫 How to `reach me` **shihabraafat7@gmail.com**
 - :school: I am a `Graduated` from Faculty of Computers & Informatics at El-Shourok Academy
 - :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1gKRuSXStkGOPvG075mZLyMVcLvBsykCe/view?usp=sharing).
